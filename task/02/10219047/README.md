@@ -1,7 +1,4 @@
-# 02
-+ Tugas mengkaji dan menjalankan kode untuk mencari satu akar dalam interval tertentu
-+ Menentukan fungsi tertentu $f(x)$, yang memiliki akar untuk $x \in [x_a, x_b]$ dan mencari akarnya dengan memodifikasi kesepuluh kode yang diberikan.
-+ Melaporkan hasilnya dalam folder sesuai NIM masing-masing
+Rizka Finesya
+10219047
 
-## Notes
-+ Digunakan fungsi $f(x)=$, dan akan dicari satu akar persamaan dalam rentang $x \in [,]$
+Digunakan fungsi $f(x)=\cos(x+0.12\pi)-0.20$, dan akan dicari satu akar persamaan dalam rentang $x \in [0,2]$
